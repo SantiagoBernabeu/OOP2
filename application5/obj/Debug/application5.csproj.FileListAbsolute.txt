@@ -1,0 +1,8 @@
+C:\Users\fmi\Source\Repos\OOP2\application5\bin\Debug\application5.exe.config
+C:\Users\fmi\Source\Repos\OOP2\application5\bin\Debug\application5.exe
+C:\Users\fmi\Source\Repos\OOP2\application5\bin\Debug\application5.pdb
+C:\Users\fmi\Source\Repos\OOP2\application5\obj\Debug\application5.csproj.AssemblyReference.cache
+C:\Users\fmi\Source\Repos\OOP2\application5\obj\Debug\application5.csproj.SuggestedBindingRedirects.cache
+C:\Users\fmi\Source\Repos\OOP2\application5\obj\Debug\application5.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Source\Repos\OOP2\application5\obj\Debug\application5.exe
+C:\Users\fmi\Source\Repos\OOP2\application5\obj\Debug\application5.pdb
